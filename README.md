@@ -28,26 +28,7 @@
 </p>
 
 ---
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SadiqahMushtaq&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqahMushtaq&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-<h3 align="left">Profile Views:</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SadiqahMushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<h3 align="left">GitHub Streak:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqahMushtaq&theme=radical" alt="GitHub Streak" />
-</p>
