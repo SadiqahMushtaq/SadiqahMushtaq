@@ -8,7 +8,6 @@
 - 🔍 Open to collaborating with **like-minded individuals and researchers**.
 - 🎯 **2025 Goal:** Delving deeper into the intersection of **Robotics and Artificial General Intelligence (AGI)**.
 - ⚡ Fun fact: I’m also passionate about **Chip Design and Verification**.
-- 📚 🇵🇰 Studying **Computer Engineering** at **Habib University**.
 - 📚 🇺🇸 Research Internship at **Texas A&M University, TX**, focusing on **Optimizing LLMs for General-Purpose CPUs**.
 - 📚 🇺🇸 Completed a **Summer Exchange Semester at Stanford University, CA**, as part of the **International Honors Program**.
 
